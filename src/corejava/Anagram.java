@@ -2,7 +2,7 @@ package corejava;
 
 import java.util.Arrays;
 
-//Anagram Check- Write a function that checks if two given strings are anagrams of each other.
+//Anagram Check - Write a function that checks if two given strings are anagrams of each other.
 
 public class Anagram {
     static void main() {
